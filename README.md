@@ -13,13 +13,13 @@ Students should be comfortable with Python at the introductory level.
 
 All downloads and installs must be done before class to ensure an on-time start.
 
-- Overview
+#### Overview
     - Any modern Windows, Linux, or Mac OS X operating system
     - Python 3.x (3.7 is the latest) and additional packages
     - Student lab files
     - An IDE with Python support (PyCharm Community Edition is an excellent free option, and there are several other good ones)
 
-- Details
+#### Details
     - Python
         * Option 1: Install Anaconda bundle (which includes Python and extra packages needed)
             - Download and install Anaconda distribution from https://www.anaconda.com/distribution/
