@@ -33,8 +33,10 @@ Students should be comfortable with Python at the introductory level.
             - Unzip py3esriadv.zip into Desktop or other convenient location
         * Non-Windows (Linux, MacOS)
             - Extract py3esriadv.tar.gz into home folder, Desktop, or other convenient location
+
     - IDE
         * Download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download
+
         *we **recommend** PyCharm Community Edition, but any Python-aware IDE is fine*
 
 
