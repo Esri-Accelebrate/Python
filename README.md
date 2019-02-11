@@ -19,10 +19,11 @@ Students should be comfortable with Python at the introductory level.
 
 - Details
     - Python
-        * Option 1: Install Anaconda bundle (which includes extra packages needed)
+        * Option 1: Install Anaconda bundle (which includes Python and extra packages needed)
             - Download and install Anaconda distribution from https://www.anaconda.com/distribution/
 
-        * Option 2: Install packages manually
+        * Option 2: Install Python and extra packages manually
+            - Install Python from https://www.python.org/downloads (or use the Python version provided by your OS as long as it's at least version 3.5)
             - Using provided requirements.txt file, execute the following from the command line (admin rights may be needed)
 
         ````
