@@ -14,34 +14,30 @@ Students should be comfortable with Python at the introductory level.
 All downloads and installs must be done before class to ensure an on-time start.
 
 #### Overview
-    - Any modern Windows, Linux, or Mac OS X operating system
-    - Python 3.x (3.7 is the latest) and additional packages
-    - Student lab files
-    - An IDE with Python support (PyCharm Community Edition is an excellent free option, and there are several other good ones)
+- Any modern Windows, Linux, or Mac OS X operating system
+- Python 3.x (3.7 is the latest) and additional packages
+- Student lab files
+- An IDE with Python support (PyCharm Community Edition is an excellent free option, and there are several other good ones)
 
 #### Details
-    - Python
-        * Option 1: Install Anaconda bundle (which includes Python and extra packages needed)
-            - Download and install Anaconda distribution from https://www.anaconda.com/distribution/
+- Python
+  - Option 1: Install Anaconda bundle (which includes Python and extra packages needed)
+    - Download and install Anaconda distribution from https://www.anaconda.com/distribution/
+  - Option 2: Install Python and extra packages manually
+    - Install Python from https://www.python.org/downloads (or use the Python version provided by your OS as long as it's at least version 3.5)
+    - Using provided requirements.txt file, execute the following from the command line (admin rights may be needed)
+     ````
+     python -m pip install -r requirements.txt
+     ````     
+- Lab files
+  - Windows
+    - Unzip py3esriadv.zip into Desktop or other convenient location
+  - Non-Windows (Linux, MacOS)
+    - Extract py3esriadv.tar.gz into home folder, Desktop, or other convenient location
+- IDE
+  - Download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download
 
-        * Option 2: Install Python and extra packages manually
-            - Install Python from https://www.python.org/downloads (or use the Python version provided by your OS as long as it's at least version 3.5)
-            - Using provided requirements.txt file, execute the following from the command line (admin rights may be needed)
-
-        ````
-        python -m pip install -r requirements.txt
-        ````
-               
-    - Lab files
-        * Windows
-            - Unzip py3esriadv.zip into Desktop or other convenient location
-        * Non-Windows (Linux, MacOS)
-            - Extract py3esriadv.tar.gz into home folder, Desktop, or other convenient location
-
-    - IDE
-        * Download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download
-
-        *We **recommend** PyCharm Community Edition, but any Python-aware IDE may be used*
+    *We **recommend** PyCharm Community Edition, but any Python-aware IDE may be used*
 
 
 ## Class Outline
