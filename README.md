@@ -13,9 +13,29 @@ Students should be comfortable with Python at the introductory level.
 
 - Overview
     - Any Windows, Linux, or Mac OS X operating system
-    - Python 3.x (3.7 is the latest)
-    - An IDE with Python support (PyCharm Community Edition is an excellent free option, but there are several other good ones)
+    - Python 3.x (3.7 is the latest) and additional packages
+    - Student lab files
+    - An IDE with Python support (PyCharm Community Edition is an excellent free option, and there are several other good ones)
 
+- Details
+    - Python
+        * Option 1: Install Anaconda bundle (which includes extra packages needed)
+            - Download and install Anaconda distribution from https://www.anaconda.com/distribution/
+        * Option 2: Install packages manually
+            - Using provided requirements.txt file, execute the following (admin permission may be needed)
+
+        ````
+        python -m pip install -r requirements.txt
+        ````
+               
+    - Lab files
+        * Windows
+            - Unzip py3esriadv.zip into Desktop or other convenient location
+        * Non-Windows (Linux, MacOS)
+            - Extract py3esriadv.tar.gz into home folder, Desktop, or other convenient location
+    - IDE
+        * Download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download
+        *we **recommend** PyCharm Community Edition, but any Python-aware IDE is fine*
 
 
 ## Class Outline
