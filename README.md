@@ -12,7 +12,7 @@ Students should be comfortable with Python at the introductory level.
 ## Technical Setup and Requirements
 
 - Overview
-    - Any Windows, Linux, or Mac OS X operating system
+    - Any modern Windows, Linux, or Mac OS X operating system
     - Python 3.x (3.7 is the latest) and additional packages
     - Student lab files
     - An IDE with Python support (PyCharm Community Edition is an excellent free option, and there are several other good ones)
@@ -21,8 +21,9 @@ Students should be comfortable with Python at the introductory level.
     - Python
         * Option 1: Install Anaconda bundle (which includes extra packages needed)
             - Download and install Anaconda distribution from https://www.anaconda.com/distribution/
+
         * Option 2: Install packages manually
-            - Using provided requirements.txt file, execute the following (admin permission may be needed)
+            - Using provided requirements.txt file, execute the following from the command line (admin rights may be needed)
 
         ````
         python -m pip install -r requirements.txt
@@ -37,7 +38,7 @@ Students should be comfortable with Python at the introductory level.
     - IDE
         * Download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download
 
-        *we **recommend** PyCharm Community Edition, but any Python-aware IDE is fine*
+        *We **recommend** PyCharm Community Edition, but any Python-aware IDE may be used*
 
 
 ## Class Outline
