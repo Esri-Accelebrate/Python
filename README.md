@@ -26,9 +26,9 @@ All downloads and installs must be done before class to ensure an on-time start.
   - Option 2: Install Python and extra packages manually
     - Install Python from https://www.python.org/downloads (or use the Python version provided by your OS as long as it's at least version 3.5)
     - Using provided requirements.txt file, execute the following from the command line (admin rights may be needed)
-     ````
-     python -m pip install -r requirements.txt
-     ````     
+      ````
+      python -m pip install -r requirements.txt
+      ````     
 - Lab files
   - Windows
     - Unzip py3esriadv.zip into Desktop or other convenient location
