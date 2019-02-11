@@ -11,6 +11,8 @@ Students should be comfortable with Python at the introductory level.
 
 ## Technical Setup and Requirements
 
+All downloads and installs must be done before class to ensure an on-time start.
+
 - Overview
     - Any modern Windows, Linux, or Mac OS X operating system
     - Python 3.x (3.7 is the latest) and additional packages
