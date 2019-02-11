@@ -11,9 +11,11 @@ Students should be comfortable with Python at the introductory level.
 
 ## Technical Setup and Requirements
 
-- Any Windows, Linux, or Mac OS X operating system
-- Python 3.x
-- An IDE with Python support (PyCharm Community Edition is an excellent free option, but there are several other good ones)
+- Overview
+    - Any Windows, Linux, or Mac OS X operating system
+    - Python 3.x (3.7 is the latest)
+    - An IDE with Python support (PyCharm Community Edition is an excellent free option, but there are several other good ones)
+
 
 
 ## Class Outline
