@@ -1,7 +1,7 @@
 ![Hands-on training at Esri provided by Accelebrate](https://deivu67oka01d.cloudfront.net/esri/esri_accelebrate4.jpg)
 
 # Advanced Python
-**2019 Esri Developer Summit - Pre-Summit Hands-on Training Mar 3-4, 2019**
+**2020 Esri Developer Summit - Pre-Summit Hands-on Training Mar 8-9, 2020**
 
 This Python training course adds to the knowledge of students who have already learned Python. It covers a range of applied topics from database access to data science.
 
