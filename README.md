@@ -83,23 +83,24 @@ All downloads and installs must be done before class to ensure an on-time start.
   - Reading JSON
   - Writing JSON
   - Reading/writing CSV files
-- IPython and Jupyter 
-  - Using IPython from the command line
-  - IPython features
-  - Magic commands
-  - Jupyter notebooks
-  - Documentation cells
-  - Saving and exporting notebooks
-- Pandas 
-  - Pandas overview
-  - Dataframes
-  - Reading and writing data
-  - Data alignment and reshaping
-  - Selecting data (indexing and slicing)
-  - Merging and joining data sets
-- Matplotlib 
-  - Creating a basic plot
-  - Commonly used plots
-  - Ad hoc data visualization
-  - Advanced usage
-  - Saving images
+- Multiprogramming 
+  - The threading module
+  - Sharing variables
+  - The queue module
+  - The multiprocessing module
+  - Creating pools
+- Unit testing with PyTest 
+  - What is a unit test?
+  - Creating test cases
+  - Writing and running tests
+  - Test harnesses
+  - Working with fixtures
+- Metaprogramming 
+  - Implicit properties
+  - globals() and locals()
+  - Working with object attributes
+  - The inspect module
+  - Callable classes
+  - Decorators
+  - Defining classes programmatically
+
