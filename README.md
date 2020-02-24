@@ -15,7 +15,7 @@ All downloads and installs must be done before class to ensure an on-time start.
 
 #### Overview
 - Any modern Windows, Linux, or Mac OS X operating system
-- Python 3.x (3.7 is the latest) and additional packages
+- Python 3.x (3.8 is the latest) and additional packages
 - Student lab files
 - An IDE with Python support (PyCharm Community Edition is an excellent free option, and there are several other good ones)
 
@@ -31,9 +31,9 @@ All downloads and installs must be done before class to ensure an on-time start.
       ````     
 - Lab files
   - Windows
-    - Unzip py3esriadv.zip into Desktop or other convenient location
+    - Unzip py3esriadv_1.1.zip into Desktop or other convenient location
   - Non-Windows (Linux, MacOS)
-    - Extract py3esriadv.tar.gz into home folder, Desktop, or other convenient location
+    - Extract py3esriadv_1.1.tar.gz into Desktop, or other convenient location
 - IDE
   - Download PyCharm Community Edition from https://www.jetbrains.com/pycharm/download
 
