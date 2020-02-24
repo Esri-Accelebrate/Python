@@ -1,6 +1,7 @@
 openpyxl
 requests
-numpy
-scipy
-matplotlib
-pandas
+lxml
+PyYAML
+paramiko
+pytest
+pytest-mock
